@@ -17,18 +17,6 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
-    },
-    {
-      "id": "f86b1c66-2169-4bcc-82df-71b7163bc9b9",
-      "name": "Nurken",
-      "description": "Lying",
-      "element": "earth"
-    },
-    {
-      "id": "445c4aee-edaa-45e3-a556-d44cb140773e",
-      "name": "dsf",
-      "description": "sdf",
-      "element": "fire"
     }
   ],
   "filters": [
